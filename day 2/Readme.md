@@ -16,11 +16,11 @@ Create a user named `mark` on `App Server 3` in Stratos Datacenter. Set the expi
 
 **Solution:**
 
-- We need fist to navigate into the `App Server 1` . For that we ll need the credential to ssh in this server.
+- We need fist to navigate into the `App Server 3` . For that we ll need the credential to ssh in this server.
 
 ![image.png](Day%202%20Temporary%20User%20Setup%20with%20Expiry/image.png)
 
-- SSH into the `App Server 1` then we can create our user.
+- SSH into the `App Server 3` then we can create our user.
 
 ![image.png](Day%202%20Temporary%20User%20Setup%20with%20Expiry/image%201.png)
 
