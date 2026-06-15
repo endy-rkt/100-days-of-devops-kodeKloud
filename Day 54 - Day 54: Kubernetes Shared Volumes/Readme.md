@@ -1,4 +1,4 @@
-# Day 54: Day 54: Kubernetes Shared Volumes
+# Day 54: Kubernetes Shared Volumes
 
 **subject**
 
